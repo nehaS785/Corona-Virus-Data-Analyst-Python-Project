@@ -20,16 +20,11 @@ Visualization: Bar charts, line graphs, and heatmaps to illustrate key insights.
 4. Seaborn
 
 ## Key-Insights
-1. Global Impact Overview: The total number of confirmed cases is significantly high, with major spikes in certain regions.
-The death rate varies across countries, indicating differences in healthcare systems and response measures.
-2. Top Affected Countries: Countries like the USA, India, Brazil, and Italy have reported the highest number of cases.
-Some countries showed early recovery trends, while others experienced multiple waves.
-3. Recovery Trends: The recovery rate improved over time, suggesting that treatments and vaccines played a role in reducing the severity.
-Countries with strict lockdown measures and efficient healthcare systems had higher recovery rates.
-4. Death Rate & Fatality Analysis: The mortality rate was higher in elderly populations and regions with poor healthcare facilities.
-Countries with delayed lockdowns or inadequate healthcare infrastructure experienced more fatalities.
-5. Time-Series Analysis:The cases followed an exponential growth pattern initially but later stabilized after interventions.
-Peaks in cases were observed during certain months, possibly due to holiday seasons, social gatherings, or policy relaxations.
+ Global Impact – COVID-19 spread rapidly, with major spikes in certain regions.
+2️⃣ Top Affected Countries – USA, India, Brazil, and Italy recorded the highest cases.
+3️⃣ Recovery Trends – Recovery rates improved over time due to medical advancements.
+4️⃣ Death Rate Analysis – Higher fatalities in elderly populations and areas with weak healthcare systems.
+5️⃣ Time-Series Trends – Cases peaked in waves, influenced by policy changes and public behavior.
 
 ## Recommendations
 1.Strengthen Healthcare Systems – Improve hospital infrastructure, testing facilities, and medical supplies.
