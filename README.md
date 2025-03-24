@@ -14,7 +14,7 @@ Trend analysis over time.
 Visualization: Bar charts, line graphs, and heatmaps to illustrate key insights.
 
 ## Technologies Used
-Python
-Pandas
-Matplotlib
-Seaborn
+1. Python
+2. Pandas
+3. Matplotlib
+4. Seaborn
