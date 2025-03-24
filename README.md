@@ -12,3 +12,9 @@ Total confirmed cases, deaths, and recoveries worldwide.
 Number of affected countries/regions.
 Trend analysis over time.
 Visualization: Bar charts, line graphs, and heatmaps to illustrate key insights.
+
+## Technologies Used
+Python
+Pandas
+Matplotlib
+Seaborn
