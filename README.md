@@ -20,15 +20,15 @@ Visualization: Bar charts, line graphs, and heatmaps to illustrate key insights.
 4. Seaborn
 
 ## Key-Insights
- Global Impact – COVID-19 spread rapidly, with major spikes in certain regions.
-2️⃣ Top Affected Countries – USA, India, Brazil, and Italy recorded the highest cases.
-3️⃣ Recovery Trends – Recovery rates improved over time due to medical advancements.
-4️⃣ Death Rate Analysis – Higher fatalities in elderly populations and areas with weak healthcare systems.
-5️⃣ Time-Series Trends – Cases peaked in waves, influenced by policy changes and public behavior.
+1. Global Impact – COVID-19 spread rapidly, with major spikes in certain regions.
+2. Top Affected Countries – USA, India, Brazil, and Italy recorded the highest cases.
+3. Recovery Trends – Recovery rates improved over time due to medical advancements.
+4. Death Rate Analysis – Higher fatalities in elderly populations and areas with weak healthcare systems.
+5. Time-Series Trends – Cases peaked in waves, influenced by policy changes and public behavior.
 
 ## Recommendations
-1.Strengthen Healthcare Systems – Improve hospital infrastructure, testing facilities, and medical supplies.
-2.Data-Driven Decisions – Use real-time data to forecast outbreaks and plan resource allocation.
-3.Encourage Vaccination & Awareness – Promote vaccination drives and educate the public on preventive measures.
-4.Smart Lockdown Strategies – Implement localized lockdowns to balance public health and economic impact.
-5.Pandemic Preparedness – Establish global databases, conduct response drills, and enhance international cooperation.
+1. Strengthen Healthcare Systems – Improve hospital infrastructure, testing facilities, and medical supplies.
+2. Data-Driven Decisions – Use real-time data to forecast outbreaks and plan resource allocation.
+3. Encourage Vaccination & Awareness – Promote vaccination drives and educate the public on preventive measures.
+4. Smart Lockdown Strategies – Implement localized lockdowns to balance public health and economic impact.
+5. Pandemic Preparedness – Establish global databases, conduct response drills, and enhance international cooperation.
